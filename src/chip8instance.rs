@@ -1,4 +1,3 @@
-use std::thread::sleep;
 use std::time::Duration;
 use minifb::*;
 use rodio::{Sink, source::SineWave, Source};
